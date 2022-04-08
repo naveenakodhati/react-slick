@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.planets-list {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  margin: 30px;
+}
+.heading {
+  color: #05acff;
+}
+.img-el {
+  width: 50%;
+  margin: 30px;
+}
